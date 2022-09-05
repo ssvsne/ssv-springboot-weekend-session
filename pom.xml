@@ -48,7 +48,7 @@
 		<dependency>
 			  <groupId>com.newrelic.agent.java</groupId>
 			  <artifactId>newrelic-java</artifactId>
-			  <version>JAVA_AGENT_VERSION</version>
+			  <version>1.8.0_332</version>
 			  <scope>provided</scope>
 			  <type>zip</type>
 		</dependency>
